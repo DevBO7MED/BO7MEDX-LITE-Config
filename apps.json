@@ -5,7 +5,6 @@
       "name": "Browsers",
       "apps": [
         { "name": "Firefox",         "exe": "browsers\\firefox\\firefox.exe"     },
-        { "name": "Chrome",          "exe": "browsers\\chrome\\chrome.exe"        }
       ]
     },
     {
